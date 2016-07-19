@@ -1,0 +1,13 @@
+ocamlfind
+sexplib
+ppx_sexp_conv
+fieldslib
+base-bytes
+ppx_fields_conv
+re
+cmdliner
+base64
+stringext
+uri
+conduit
+magic-mime
