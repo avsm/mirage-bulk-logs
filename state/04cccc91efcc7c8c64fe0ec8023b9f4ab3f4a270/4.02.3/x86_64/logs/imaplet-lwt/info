@@ -1,0 +1,16 @@
+             package: imaplet-lwt
+             version: 0.1.15
+          repository: default
+        upstream-url: https://github.com/gregtatcam/imaplet-lwt/archive/v0.1.15.tar.gz
+       upstream-kind: http
+   upstream-checksum: 962be85899c7bafe7731d13e19dab8ec
+            homepage: https://github.com/gregtatcam/imaplet-lwt
+         bug-reports: https://github.com/gregtatcam/imaplet-lwt/issues
+            dev-repo: https://github.com/gregtatcam/imaplet-lwt.git
+              author: Gregory Tsipenyuk <gregtsip@gmail.com>
+             license: MIT
+             depends: ocamlfind & lwt & cohttp >= 0.19.3 & git >= 1.7.1 & irmin (>= 0.9.10 & < 0.10.0) & irmin-unix & re & tls >= 0.6.0 & nocrypto (>= 0.5.1 & < 0.5.3) & dns >= 0.15.3 & menhir & camlzip & sexplib <= 113.00.00 & fieldslib <= 113.00.00 & ocamlbuild
+   installed-version: 
+  available-versions: 0.1.2, 0.1.3, 0.1.4, 0.1.8, 0.1.9, 0.1.10, 0.1.11, 0.1.12, 0.1.13, 0.1.14, 0.1.15
+         description: IMAP server prototype, supports IMAPv4rev1
+
